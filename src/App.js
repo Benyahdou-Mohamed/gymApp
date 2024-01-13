@@ -1,10 +1,8 @@
 import './App.css';
 
 function App() {
-    return ( <
-        div >
-        sssssssssssss <
-        /div>
+    return ( <div>
+        sssssssssssqdqssss </div>
     );
 }
 
