@@ -22,7 +22,7 @@ export default function NavBar() {
         alignItems="flex"
       >
         <Link to='/' style={{textDecoration:'none',color:'#3A1212',borderBottom:'3px solid #ff2625'}}>Home</Link>
-        <a href="#exercises" style={{textDecoration:'none',color:'#3A1212'}}>Exercice</a>
+        <a href="#exercises" style={{textDecoration:'none',color:'#3A1212'}}>It Should Be Exercice</a>
       </Stack>
     </Stack>
     
