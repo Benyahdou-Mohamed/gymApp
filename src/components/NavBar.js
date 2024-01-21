@@ -21,6 +21,7 @@ export default function NavBar() {
         fontSize='24px'
         alignItems="flex"
       >
+        it just seen to be crazy 
         <Link to='/' style={{textDecoration:'none',color:'#3A1212',borderBottom:'3px solid #ff2625'}}>Home</Link>
         <a href="#exercises" style={{textDecoration:'none',color:'#3A1212'}}>Exercice</a>
       </Stack>
